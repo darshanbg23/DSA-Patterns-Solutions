@@ -1,22 +1,22 @@
-# Reverse String ( [LeetCode - 344](https://leetcode.com/problems/reverse-string/) )
+## Reverse String ( [LeetCode - 344](https://leetcode.com/problems/reverse-string/) )
 
-## Problem
+### Problem
 
 Write a function that reverses a string by modifying the input array of characters in place.
 
-## Examples
+### Examples
 
-Example 1:
+- Example 1:
 
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]
+  - Input: s = ["h","e","l","l","o"]
+  - Output: ["o","l","l","e","h"]
 
-Example 2:
+- Example 2:
 
-Input: s = ["H","a","n","n","a","h"]
-Output: ["h","a","n","n","a","H"]
+  - Input: s = ["H","a","n","n","a","h"]
+  - Output: ["h","a","n","n","a","H"]
 
-## Constraints
+### Constraints
 
 - 1 <= s.length <= 10^5
 - s[i] is a printable ASCII character.
