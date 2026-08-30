@@ -4,3 +4,9 @@ A collection of my **Python solutions** to Data Structures & Algorithms problems
 
 This repository is a record of my practice, focused on improving problem-solving skills, recognizing patterns, and building consistency.
 
+---
+
+## Patterns
+
+1. [Two Pointer](Arrays/Two%20Pointers/)
+
