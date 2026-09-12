@@ -8,5 +8,5 @@ This repository is a record of my practice, focused on improving problem-solving
 
 ## Patterns
 
-1. [Two Pointer](Arrays/Two%20Pointers/)
+### 1. [Two Pointers](Arrays/Two%20Pointers/)
 
