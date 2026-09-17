@@ -46,3 +46,10 @@ for right in range(len(nums)):
 
 ---
 
+## Problems
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Solution](./1%20-%20Maximum%20Sum%20Subarray%20of%20Size%20K/) |
+| 2 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./2%20-%20Maximum%20Average%20Subarray%20of%20Size%20K/) |
+| 3 | Minimum Sum Subarray of Size K | [Solution](./3%20-%20Minimum%20Sum%20Subarray%20of%20Size%20K/) |
