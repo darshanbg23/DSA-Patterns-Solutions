@@ -48,11 +48,18 @@ for right in range(len(nums)):
 
 ## Problems
 
+### 1. Fixed Window
+
 | # | Problem | Solution |
 |---|---|---|
 | 1 | [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Solution](./01%20-%20Maximum%20Sum%20Subarray%20of%20Size%20K/) |
 | 2 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./02%20-%20Maximum%20Average%20Subarray%20of%20Size%20K/) |
 | 3 | Minimum Sum Subarray of Size K | [Solution](./03%20-%20Minimum%20Sum%20Subarray%20of%20Size%20K/) |
-| 4 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./04%20-%20Maximum%20Number%20of%20Consecutive%201s/) |
-| 5 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Solution](./05%20-%20Maximum%20Consecutive%201s%20With%20One%200%20Allowed/) |
-| 6 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./06%20-%20Maximum%20Consecutive%201s%20with%20k%20zeros/) |
+
+### 2. Variable Window
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./04%20-%20Maximum%20Number%20of%20Consecutive%201s/) |
+| 2 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Solution](./05%20-%20Maximum%20Consecutive%201s%20With%20One%200%20Allowed/) |
+| 3 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./06%20-%20Maximum%20Consecutive%201s%20with%20k%20zeros/) |
